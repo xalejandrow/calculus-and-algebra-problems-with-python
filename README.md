@@ -1,5 +1,6 @@
-# Calculus and Algebra Problems with Python
-
+<!-- hide -->
+# Calculus and Algebra Problems with Python 
+<!-- endhide -->
 Inside this repository, you will find a file called `problems.ipynb` with the exercises you need to finish to complete it.
 
 ## 🌱  How to start this project
