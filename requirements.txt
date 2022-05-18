@@ -9,3 +9,4 @@ ipyleaflet>=0.14.0
 
 # Machine learning ----------------------------
 sklearn
+seaborn
